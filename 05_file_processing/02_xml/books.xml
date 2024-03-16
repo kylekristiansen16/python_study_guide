@@ -1,0 +1,11 @@
+<?xml version="1.0"?>                               # prolog
+<data>                                              # root element
+    <book title="The Little Prince">                # element with attribute
+        <author>Antoine de Saint-Exupéry</author>   # element with element.text
+        <year>1943</year>                           # element with element.text
+    </book>                                         # end of element
+    <book title="Hamlet">
+        <author>William Shakespeare</author>
+        <year>1603</year>
+    </book>
+</data>

@@ -1,0 +1,5 @@
+__main__:CRITICAL:2023-09-10 09:19:07,387:Your CRITICAL message
+__main__:ERROR:2023-09-10 09:19:07,387:Your ERROR message
+__main__:WARNING:2023-09-10 09:19:07,387:Your WARNING message
+__main__:INFO:2023-09-10 09:19:07,387:Your INFO message
+__main__:DEBUG:2023-09-10 09:19:07,387:Your DEBUG message
