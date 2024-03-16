@@ -1,0 +1,25 @@
+{
+  "cars": [
+    {
+      "id": 3,
+      "brand": "porsche",
+      "model": "911",
+      "production_year": 1974,
+      "convertible": true
+    },
+    {
+      "brand": "ferrari",
+      "model": "speedster",
+      "production_year": 1991,
+      "convertible": true,
+      "id": "5"
+    },
+    {
+      "id": 1,
+      "brand": "mazda",
+      "model": "cx5",
+      "production_year": 1999,
+      "convertible": false
+    }
+  ]
+}
